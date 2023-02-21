@@ -13,11 +13,10 @@
 
 - 🌱 I’m currently learning **AI, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://masud.foowork.com](https://masud.foowork.com/)
+- 👨‍💻 All of my projects are available at [https://alam.foowork.com](https://alam.foowork.com/)
 
 - 💬 Ask me about **MERN STACK, Frontend, Backend, Integration**
 
-- 📄 Resume Here: [**MyResume**](https://drive.google.com/drive/folders/1p-YpT8LgsaV_Qy2aw_SOKx4q93Xpj6PA?usp=sharing)
 - 📄 Connect  With me: [**Mail Here**](mailto:foowork.com@gmail.com)
 
 <br/>
